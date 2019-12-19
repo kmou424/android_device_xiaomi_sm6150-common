@@ -165,11 +165,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.contexthub@1.1-service.generic
 
-# Codec2 modules
-PRODUCT_PACKAGES += \
-    com.android.media.swcodec \
-    libsfplugin_ccodec
-
 # Device-specific settings
 PRODUCT_PACKAGES += \
     XiaomiParts
